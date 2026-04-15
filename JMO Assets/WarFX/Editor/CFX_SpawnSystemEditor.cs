@@ -6,6 +6,7 @@ using System.Collections;
 
 // CFX Spawn System Editor interface
 
+#if false
 [CustomEditor(typeof(CFX_SpawnSystem))]
 public class CFX_SpawnSystemEditor : UnityEditor.Editor
 {
@@ -191,3 +192,4 @@ public class CFX_SpawnSystemEditor : UnityEditor.Editor
 		}
 	}
 }
+#endif

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1761d2618932db8c2b883300e737758a
+timeCreated: 1507996629
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129996
+  packageName: NaughtyAttributes
+  packageVersion: 2.1.5
+  assetPath: Assets/Additional Assets/NaughtyAttributes/Scripts/Test/TestNaughtyComponent.cs
+  uploadId: 897264

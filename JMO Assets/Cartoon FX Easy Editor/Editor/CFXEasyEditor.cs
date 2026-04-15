@@ -6,6 +6,7 @@ using System.Reflection;
 // Cartoon FX Easy Editor
 // (c) 2013-2017 - Jean Moreno
 
+#if false
 public class CFXEasyEditor : EditorWindow
 {
 	static private CFXEasyEditor SingleWindow;
@@ -163,6 +164,7 @@ public class CFXEasyEditor : EditorWindow
 	
 	void OnGUI()
 	{
+		return;
 		GUILayout.Space(4);
 		
 		GUILayout.BeginHorizontal();
@@ -1593,3 +1595,5 @@ public class CFXEasyEditor : EditorWindow
 		}
 	}
 }
+
+#endif
